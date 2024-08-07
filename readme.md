@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hi! I'm [Your Name], a passionate [Your Role] with experience in [Your Skills/Technologies]. I love building innovative solutions and contributing to open-source projects. Welcome to my GitHub portfolio where you can explore my projects, learn more about my skills, and connect with me.
+Hi! I'm Alberto, a passionate Python Web Developer with experience in Python/Automation Engineer. I love building innovative solutions and contributing to open-source projects. Welcome to my GitHub portfolio where you can explore my projects, learn more about my skills, and connect with me.
 
-- 🌱 I’m currently learning [Current Learning Focus]
-- 💬 Ask me about [Topics you're knowledgeable about]
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Twitter Handle]
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about everything about Python/Automation.
+- 📫 How to reach me: email: gendov13@gmail.com | [[LinkedIn Profile]](https://www.linkedin.com/in/alberto-gendov-311319187/)
 
 ![asdasdasdasd](https://github.com/user-attachments/assets/b5a12ae5-70cf-444f-9c58-81c0a41ef2f3)
 
@@ -15,31 +15,9 @@ Hi! I'm [Your Name], a passionate [Your Role] with experience in [Your Skills/Te
 
 ## 🛠 Skills & Tools
 
-- **Languages:** [Languages you use]
-- **Frameworks/Libraries:** [Frameworks and libraries you use]
-- **Tools:** [Tools you use]
+- **Languages:** Python
 
 ---
-
-## 🚀 Projects
-
-### [Project 1 Name]
-**Description:** A brief description of what the project is about.  
-**Technologies Used:** [List of technologies]  
-**Demo:** [Link to demo or live project]  
-**Repo:** [Link to GitHub repo]
-
-### [Project 2 Name]
-**Description:** A brief description of what the project is about.  
-**Technologies Used:** [List of technologies]  
-**Demo:** [Link to demo or live project]  
-**Repo:** [Link to GitHub repo]
-
-### [Project 3 Name]
-**Description:** A brief description of what the project is about.  
-**Technologies Used:** [List of technologies]  
-**Demo:** [Link to demo or live project]  
-**Repo:** [Link to GitHub repo]
 
 ---
 
@@ -59,19 +37,10 @@ Hi! I'm [Your Name], a passionate [Your Role] with experience in [Your Skills/Te
 
 ## 📫 Contact Me
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-- **Website:** [Your Personal Website/Portfolio]
+- **Email:** gendov13@gmail.com
+- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/alberto-gendov-311319187/)
 
----
 
-## 🎨 My Latest Artworks (Optional)
-
-If you are also into creative arts or design, showcase your latest works here.
-
-![Artwork 1](https://via.placeholder.com/400x300.png?text=Artwork+1)
-![Artwork 2](https://via.placeholder.com/400x300.png?text=Artwork+2)
 
 ---
 
@@ -83,4 +52,4 @@ If you like my work, consider buying me a coffee!
 
 ---
 
-*This README was last updated on [Date].*
+
