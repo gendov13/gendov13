@@ -27,11 +27,6 @@ Hi! I'm Alberto, a passionate Python Web Developer with experience in Python/Aut
 
 ---
 
-## 🏆 Achievements
-
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
 
 ---
 
