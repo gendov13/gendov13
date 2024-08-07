@@ -8,7 +8,8 @@ Hi! I'm [Your Name], a passionate [Your Role] with experience in [Your Skills/Te
 - 💬 Ask me about [Topics you're knowledgeable about]
 - 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Twitter Handle]
 
-![Profile Banner](![asdasdasdasd](https://github.com/user-attachments/assets/b5a12ae5-70cf-444f-9c58-81c0a41ef2f3))
+![asdasdasdasd](https://github.com/user-attachments/assets/b5a12ae5-70cf-444f-9c58-81c0a41ef2f3)
+
 
 ---
 
